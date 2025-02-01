@@ -11,18 +11,25 @@ Discover the IP address and hostname of the devices connected in the network.
 ![networkscanner-results](https://github.com/user-attachments/assets/bc2fb061-5af0-45b7-9974-1a8483491f54)
 
 
-Run **NetworkScanner** on supported systems:
 
-*Windows systems:* use the Python interpreter:
+*Run **NetworkScanner** on supported systems:*
+
+
+***Windows systems:*** use the Python interpreter:
 
 `PS > python netscan.py`
 
-*Linux systems:*
 
-\* make the *netscan.py* file executable and run it:
+***Linux systems:***
+
+\* make the *netscan.py* file executable:
 
 `$ chmod +x netscan.py`
+
+and run it:
+
 `$ ./netscan.py`
+
 
 \* use the Python interpreter:
 
